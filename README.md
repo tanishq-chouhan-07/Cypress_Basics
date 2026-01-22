@@ -104,10 +104,11 @@ You can modify a commands's timeout. This timeout affects both its default asser
 
     involves re-executing a previously created test suite to verify that recent code changes haven't caused new issues. This verifies that updates, bug fixes, or enhancements do not break the functionality of the application.
 
-    ![alt text](image.png)
 
     - When to do regression testing 
         
         - When new functionality is added to the system and the code has been modified to absorb and integrate that functionality with the existing code.
         - When some defect has been identified in the software and the code is debugged to fix it.
         - When the code is modified to optimize its working.
+
+![alt text](image.png)
